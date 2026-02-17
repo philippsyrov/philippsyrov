@@ -12,14 +12,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🎨 I build things for the web — with a focus on **design that actually works**
-- 🔭 Currently working on [**OogVault**](https://github.com/philippsyrov/OogVault)
-- 🤖 Building with **AI** — Claude + Cursor are my daily drivers
-- ⚡ I code and design simultaneously. Sometimes that's a blessing, sometimes a curse.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -64,9 +56,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58A6FF,100:0d1117&height=80&section=footer" />
 
 </div>
-footer" />
 
 </div>
