@@ -1,21 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Philipp+%F0%9F%91%8B;I+code+things.+I+design+things.;Sometimes+at+the+same+time;and+it+looks+good." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58A6FF,100:0d1117&height=120&section=header&text=Philipp%20Syrov&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Philipp+%F0%9F%91%8B;I+code+things.+I+design+things.;Sometimes+at+the+same+time+%E2%80%94;and+it+looks+good." alt="Typing SVG" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/PhilT3ch?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=58A6FF)](https://github.com/PhilT3ch)
+![Profile Views](https://komarev.com/ghpvc/?username=PhilT3ch&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/PhilT3ch?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58A6FF)](https://github.com/PhilT3ch)
 
 </div>
 
 ---
 
-### About Me
+### 🧑‍💻 About Me
 
-- I build things for the web with a focus on design that actually works
-- Currently working on OogVault
-- Always learning something new
-- I code and design simultaneously
+- 🎨 I build things for the web — with a focus on **design that actually works**
+- 🔭 Currently working on [**OogVault**](https://github.com/PhilT3ch/OogVault)
+- 🤖 Building with **AI** — Claude + Cursor are my daily drivers
+- ⚡ I code and design simultaneously. Sometimes that's a blessing, sometimes a curse.
 
 ---
 
@@ -36,11 +39,42 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Streak
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PhilT3ch&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilT3ch&layout=compact&theme=github_dark&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=PhilT3ch&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 📈 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhilT3ch&theme=github-compact&hide_border=true&area=true&area_color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilT3ch/PhilT3ch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhilT3ch/PhilT3ch/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PhilT3ch/PhilT3ch/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58A6FF,100:0d1117&height=80&section=footer" />
 
 </div>
