@@ -49,16 +49,6 @@
 
 ---
 
-### 📈 Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PhilT3ch&theme=github-compact&hide_border=true&area=true&area_color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
