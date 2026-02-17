@@ -6,8 +6,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PhilT3ch&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/PhilT3ch?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58A6FF)](https://github.com/PhilT3ch)
+![Profile Views](https://komarev.com/ghpvc/?username=philippsyrov&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/philippsyrov?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58A6FF)](https://github.com/philippsyrov)
 
 </div>
 
@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me
 
 - 🎨 I build things for the web — with a focus on **design that actually works**
-- 🔭 Currently working on [**OogVault**](https://github.com/PhilT3ch/OogVault)
+- 🔭 Currently working on [**OogVault**](https://github.com/philippsyrov/OogVault)
 - 🤖 Building with **AI** — Claude + Cursor are my daily drivers
 - ⚡ I code and design simultaneously. Sometimes that's a blessing, sometimes a curse.
 
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PhilT3ch&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=philippsyrov&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -54,9 +54,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilT3ch/PhilT3ch/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhilT3ch/PhilT3ch/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PhilT3ch/PhilT3ch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake-dark.svg" />
 </picture>
 
 </div>
