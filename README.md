@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58A6FF,100:0d1117&height=120&section=header&text=Philipp%20Syrov&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Philipp+%F0%9F%91%8B;I+code+things.+I+design+things.;Sometimes+at+the+same+time+%E2%80%94;and+it+looks+good." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Philipp+%F0%9F%91%8B;I+code+things.+I+design+things.;Sometimes+at+the+same+time+%E2%80%94" alt="Typing SVG" />
 
 <br/>
 
@@ -66,5 +65,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58A6FF,100:0d1117&height=80&section=footer" />
+
+</div>
+footer" />
 
 </div>
