@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Philipp+%F0%9F%91%8B;I+code+things.+I+design+things.;Sometimes+at+the+same+time..." alt="Typing SVG" />
 
 <br/>
@@ -12,19 +11,18 @@
 
 ---
 
-
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-1A1F2E?style=for-the-badge&logo=codeium&logoColor=white)
+![Devin](https://img.shields.io/badge/Devin-6B3FA0?style=for-the-badge&logo=cognition&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white)
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -46,8 +44,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -55,8 +53,4 @@
 ---
 
 <div align="center">
-
-
-</div>
-
 </div>
