@@ -4,9 +4,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=philippsyrov&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/philippsyrov?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58A6FF)](https://github.com/philippsyrov)
-
 </div>
 
 ---
