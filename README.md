@@ -4,9 +4,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=philippsyrov&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/philippsyrov?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=58A6FF)](https://github.com/philippsyrov)
-
 </div>
 
 ---
@@ -23,33 +20,4 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-</div>
-
----
-
-### 🔥 Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=philippsyrov&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/philippsyrov/philippsyrov/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
 </div>
