@@ -29,7 +29,7 @@ A native macOS app that plays MIDI files on the Genshin Impact lyre (and piano) 
 
 Earlier projects. What I learned building them went into the classified project.
 
-- **[Sass](https://github.com/philippsyrov/sass-discord-bot)** · *open source*<br>
+- **[Sass](https://github.com/philippsyrov/Sass)** · *open source*<br>
   A Discord bot that roasts your friends. Vector memory, so she keeps receipts. Runs on any API key or local inference like Ollama.<br>
   ↳ Her **dreaming** state, background memory consolidation while nobody's talking to her, went into the classified project.
 - **[OogVault](https://github.com/philippsyrov/OogVault)** + **[OogVault Desktop](https://github.com/philippsyrov/OogVault-Desktop)** · *retired*<br>
