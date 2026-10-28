@@ -1,6 +1,6 @@
 # Hello, I'm [Philipp](https://github.com/philippsyrov) 👋
 
-I build small, slightly unhinged, genuinely useful software. Agents type, I argue with them.
+I build opinionated software, occasionally with attitude. Agents type, I argue with them.
 
 My work mostly involves local-first apps and AI tooling: native macOS apps, self-hosted AI services, and bots that run on your own models.
 
