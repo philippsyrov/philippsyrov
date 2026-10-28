@@ -9,9 +9,9 @@
 >
 > **Analyst note:** *Makes small, slightly unhinged, genuinely useful software.*
 
-[![philippsyrov.com](https://img.shields.io/badge/-philippsyrov.com-FFD400?style=flat-square&labelColor=0a0a08&logo=firefoxbrowser&logoColor=FFD400)](https://philippsyrov.com)
+[![philippsyrov.com](https://img.shields.io/badge/-philippsyrov.com-FFD400?style=flat-square&labelColor=0a0a08&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZENDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D)](https://philippsyrov.com)
 [![X](https://img.shields.io/badge/-@PhilippSyrov-FFD400?style=flat-square&labelColor=0a0a08&logo=x&logoColor=FFD400)](https://x.com/PhilippSyrov)
-[![Mail](https://img.shields.io/badge/-hello@philippsyrov.com-FFD400?style=flat-square&labelColor=0a0a08&logo=maildotru&logoColor=FFD400)](mailto:hello@philippsyrov.com)
+[![Mail](https://img.shields.io/badge/-hello@philippsyrov.com-FFD400?style=flat-square&labelColor=0a0a08&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZENDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTEwIDZMMiA3Ii8%2BPC9zdmc%2B)](mailto:hello@philippsyrov.com)
 
 ---
 
