@@ -11,6 +11,7 @@
 
 [![philippsyrov.com](https://img.shields.io/badge/-philippsyrov.com-FFD400?style=flat-square&labelColor=0a0a08&logo=firefoxbrowser&logoColor=FFD400)](https://philippsyrov.com)
 [![X](https://img.shields.io/badge/-@PhilippSyrov-FFD400?style=flat-square&labelColor=0a0a08&logo=x&logoColor=FFD400)](https://x.com/PhilippSyrov)
+[![Mail](https://img.shields.io/badge/-hello@philippsyrov.com-FFD400?style=flat-square&labelColor=0a0a08&logo=maildotru&logoColor=FFD400)](mailto:hello@philippsyrov.com)
 
 ---
 
