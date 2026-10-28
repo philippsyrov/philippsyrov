@@ -32,7 +32,7 @@ Earlier projects. What I learned building them went into the classified project.
 - **[Sass](https://github.com/philippsyrov/sass-discord-bot)** · *open source*<br>
   A Discord bot that roasts your friends. Vector memory, so she keeps receipts. Runs on any API key or local inference like Ollama.<br>
   ↳ Her **dreaming** state, background memory consolidation while nobody's talking to her, went into the classified project.
-- **[OogVault](https://github.com/philippsyrov/OogVault)** + **[OogVault Desktop](https://github.com/philippsyrov/OogVault-Desktop)** · *retired, no longer in use*<br>
+- **[OogVault](https://github.com/philippsyrov/OogVault)** + **[OogVault Desktop](https://github.com/philippsyrov/OogVault-Desktop)** · *retired*<br>
   Saved your AI chats on your own machine and surfaced past answers while you typed. The desktop app added a hotkey search and an MCP server.<br>
   ↳ The local-first chat memory work informed how the classified project remembers things.
 
@@ -44,7 +44,6 @@ Earlier projects. What I learned building them went into the classified project.
 ![macOS](https://img.shields.io/badge/-macOS-FFD400?style=flat-square&labelColor=0a0a08&logo=apple&logoColor=FFD400)
 ![Electron](https://img.shields.io/badge/-Electron-FFD400?style=flat-square&labelColor=0a0a08&logo=electron&logoColor=FFD400)
 
-- **Crew:** Claude, Cursor, Codex, Grok Bot. They write the code, I write very strongly worded prompts.
-- **Hugging Face:** nothing published yet.
+- **Crew:** Claude, Cursor, Codex, Grok Bot.
 
 <sub>`ship it, then roast it.` · full file at <a href="https://philippsyrov.com">philippsyrov.com</a></sub>
