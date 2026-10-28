@@ -25,6 +25,9 @@ My main project right now. Details withheld until release.
 **[Teyvat Virtuoso](https://github.com/philippsyrov/Teyvat-Virtuoso)** · *v1.0.0 out now, [download the .dmg](https://github.com/philippsyrov/Teyvat-Virtuoso/releases/latest)*<br>
 A native macOS app that plays MIDI files on the Genshin Impact lyre (and piano) for you. Built for GeForce NOW. Yes, on a Mac.
 
+**[PostPrism](https://github.com/philippsyrov/PostPrism)** · *open source*<br>
+A self-hosted GPU service for app builders: one HTTP call turns a social post (text plus up to 10 images or videos) into a search vector, moderation tags, captions and speech transcripts.
+
 ### ▌CASE HISTORY → CLASSIFIED
 
 Earlier projects. What I learned building them went into the classified project.
