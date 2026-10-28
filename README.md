@@ -16,24 +16,24 @@
 
 ### ▌ACTIVE ASSIGNMENT
 
-**[Puru](https://meetpuru.com)** · *in development, not released yet*<br>
-A kid-first AI companion app for the Mac. It's my main project right now. The repo is private until it's ready.
+**`████████`** · *CLASSIFIED · in development*<br>
+My main project right now. Details withheld until release.
 
 ### ▌RELEASED
 
 **[Teyvat Virtuoso](https://github.com/philippsyrov/Teyvat-Virtuoso)** · *v1.0.0 out now, [download the .dmg](https://github.com/philippsyrov/Teyvat-Virtuoso/releases/latest)*<br>
 A native macOS app that plays MIDI files on the Genshin Impact lyre (and piano) for you. Built for GeForce NOW. Yes, on a Mac.
 
-### ▌CASE HISTORY → PURU
+### ▌CASE HISTORY → CLASSIFIED
 
-Earlier projects. What I learned building them went into Puru.
+Earlier projects. What I learned building them went into the classified project.
 
 - **[Sass](https://github.com/philippsyrov/sass-discord-bot)** · *open source*<br>
   A Discord bot that roasts your friends. Vector memory, so she keeps receipts. Runs on any API key or local inference like Ollama.<br>
-  ↳ Her **dreaming** state, background memory consolidation while nobody's talking to her, went into Puru.
+  ↳ Her **dreaming** state, background memory consolidation while nobody's talking to her, went into the classified project.
 - **[OogVault](https://github.com/philippsyrov/OogVault)** + **[OogVault Desktop](https://github.com/philippsyrov/OogVault-Desktop)** · *retired, no longer in use*<br>
   Saved your AI chats on your own machine and surfaced past answers while you typed. The desktop app added a hotkey search and an MCP server.<br>
-  ↳ The local-first chat memory work informed how Puru remembers things.
+  ↳ The local-first chat memory work informed how the classified project remembers things.
 
 ### ▌ON FILE
 
