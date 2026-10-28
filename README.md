@@ -1,13 +1,41 @@
 <p align="center">
-  <img src="./banner.svg" alt="philipp@m5-max:~$ whoami: philipp. uni student, learns by building, agents do the typing" width="100%">
+  <a href="https://philippsyrov.com"><img src="./banner.svg" alt="Public Security Section 9 personnel file PS-0927-K: Syrov Philipp. Clearance level 3, builder. Status: shipping." width="100%"></a>
 </p>
 
-# hey, i'm philipp 👋
+> **FILE NO.** `PS-0927-K` · **CLEARANCE** `LEVEL 3 · BUILDER` · **STATUS** `SHIPPING`
+>
+> **Role:** Student. Learns by building.<br>
+> **Method:** Agents type. I argue with them.
+>
+> **Analyst note:** *Makes small, slightly unhinged, genuinely useful software.*
 
-📍 **London** | 🎓 **uni student, learning by building** | 🤖 **professional agent wrangler**
+[![philippsyrov.com](https://img.shields.io/badge/-philippsyrov.com-FFD400?style=flat-square&labelColor=0a0a08&logo=firefoxbrowser&logoColor=FFD400)](https://philippsyrov.com)
+[![X](https://img.shields.io/badge/-@PhilippSyrov-FFD400?style=flat-square&labelColor=0a0a08&logo=x&logoColor=FFD400)](https://x.com/PhilippSyrov)
 
-I build things I find interesting, usually in one 20-hour sitting and with a small team of AI agents doing the typing while I do the arguing.
-Achievements: pending. Side quests: plenty.
+---
+
+### ▌ACTIVE ASSIGNMENT
+
+**[Puru](https://meetpuru.com)** · *in development, not released yet*<br>
+A kid-first AI companion app for the Mac. It's my main project right now. The repo is private until it's ready.
+
+### ▌RELEASED
+
+**[Teyvat Virtuoso](https://github.com/philippsyrov/Teyvat-Virtuoso)** · *v1.0.0 out now, [download the .dmg](https://github.com/philippsyrov/Teyvat-Virtuoso/releases/latest)*<br>
+A native macOS app that plays MIDI files on the Genshin Impact lyre (and piano) for you. Built for GeForce NOW. Yes, on a Mac.
+
+### ▌CASE HISTORY → PURU
+
+Earlier projects. What I learned building them went into Puru.
+
+- **[Sass](https://github.com/philippsyrov/sass-discord-bot)** · *open source*<br>
+  A Discord bot that roasts your friends. Vector memory, so she keeps receipts. Runs on any API key or local inference like Ollama.<br>
+  ↳ Her **dreaming** state, background memory consolidation while nobody's talking to her, went into Puru.
+- **[OogVault](https://github.com/philippsyrov/OogVault)** + **[OogVault Desktop](https://github.com/philippsyrov/OogVault-Desktop)** · *retired, no longer in use*<br>
+  Saved your AI chats on your own machine and surfaced past answers while you typed. The desktop app added a hotkey search and an MCP server.<br>
+  ↳ The local-first chat memory work informed how Puru remembers things.
+
+### ▌ON FILE
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFD400?style=flat-square&labelColor=0a0a08&logo=typescript&logoColor=FFD400)
 ![Swift](https://img.shields.io/badge/-Swift-FFD400?style=flat-square&labelColor=0a0a08&logo=swift&logoColor=FFD400)
@@ -15,38 +43,7 @@ Achievements: pending. Side quests: plenty.
 ![macOS](https://img.shields.io/badge/-macOS-FFD400?style=flat-square&labelColor=0a0a08&logo=apple&logoColor=FFD400)
 ![Electron](https://img.shields.io/badge/-Electron-FFD400?style=flat-square&labelColor=0a0a08&logo=electron&logoColor=FFD400)
 
-## 🧭 start here
+- **Crew:** Claude, Cursor, Codex, Grok Bot. They write the code, I write very strongly worded prompts.
+- **Hugging Face:** nothing published yet.
 
-- 🐢 **[OogVault](https://github.com/philippsyrov/OogVault)**: browser extension that saves your Claude / ChatGPT / Gemini / Perplexity chats locally and nudges you when you're about to ask the same question for the fourth time
-- 🖥️ **[OogVault Desktop](https://github.com/philippsyrov/OogVault-Desktop)**: the Electron sidekick. `Cmd+Shift+Space` search from anywhere, plus an MCP server so Claude can dig through your old chats for you
-- 🎶 **[Teyvat Virtuoso](https://github.com/philippsyrov/Teyvat-Virtuoso)**: native macOS app that turns MIDI files into live lyre performances in Genshin Impact over GeForce NOW. Yes, on a Mac. No, I won't be taking questions
-- 💅 **[Sass](https://github.com/philippsyrov/sass-discord-bot)**: a Discord bot that roasts your friends for free (well, for your API bill). Has vector memory, so she keeps receipts
-
-## 🔬 currently
-
-- 🧪 **a WIP research thing** with tiny local models, Rust and a lot of stubbornness. Will report back if it works, quietly delete it if it doesn't
-- 🍳 something else is cooking. no details yet, I'm not that guy
-- 📚 also attending lectures, allegedly
-
-## 🛠️ how i build
-
-- **Agents on payroll:** Claude, Cursor, Codex, Grok Bot. They write code, I write very strongly worded prompts
-- **Rig:** M5 Max MacBook Pro, the fans are how I know I'm being productive
-- **Method:** pick something interesting → forget to eat → ship → write a README with more jokes than tests (working on that)
-
-<details>
-<summary>🎲 random facts</summary>
-
-- personal best: ~20 hours straight on one project. sleep is a dependency I keep forgetting to install
-- my Discord bot is meaner than I am. I didn't plan that
-- half my READMEs contain a turtle or a roast. the other half are working on it
-- chronically online, but only for research purposes
-
-</details>
-
-## 📫 find me
-
-[![X](https://img.shields.io/badge/-@PhilippSyrov-FFD400?style=flat-square&labelColor=0a0a08&logo=x&logoColor=FFD400)](https://x.com/PhilippSyrov)
-[![GitHub](https://img.shields.io/badge/-Follow-FFD400?style=flat-square&labelColor=0a0a08&logo=github&logoColor=FFD400)](https://github.com/philippsyrov)
-
-> *"ship it, then roast it."* (me, about my own code, every time)
+<sub>`ship it, then roast it.` · full file at <a href="https://philippsyrov.com">philippsyrov.com</a></sub>
