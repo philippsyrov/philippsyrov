@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://philippsyrov.com"><img src="./banner.svg" alt="Public Security Section 9 personnel file PS-0927-K: Syrov Philipp. Clearance level 3, builder. Status: shipping." width="100%"></a>
+  <a href="https://philippsyrov.com"><img src="./section9-dossier.svg" alt="Public Security Section 9 personnel file PS-0927-K: Syrov Philipp. Clearance level 3, builder. Status: shipping." width="100%"></a>
 </p>
 
 > **FILE NO.** `PS-0927-K` · **CLEARANCE** `LEVEL 3 · BUILDER` · **STATUS** `SHIPPING`
